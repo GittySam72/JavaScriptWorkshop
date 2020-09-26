@@ -1,0 +1,19 @@
+body {background-color: #625261}
+
+#txt{
+    color: #ffefa0;
+}
+
+
+#txt { 
+  font-size: 175px; 
+  width: 900px; 
+  margin: 200px; 
+  text-align: center; 
+  border: 2px solid #ffefa0; 
+  border-radius: 20px; 
+} 
+
+#sam {
+    color: #ffefa0;
+}
